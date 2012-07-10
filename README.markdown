@@ -1,3 +1,11 @@
+# Important Announcement
+
+compojure-rest has been renamed to Liberator you'll find it here:
+
+https://github.com/ordnungswidrig/liberator
+
+# End of Announcement
+
 Compojure-rest is a thin layer for building RESTful applications on top
 of compojure. It is loosely modeled after webmachine. 
 It provides a bunch of decorates which can be combined to provide a
